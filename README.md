@@ -30,7 +30,7 @@ Este repositorio **no tiene el código de la app**: solo guarda la **última ver
 | `apk/BoomBassTik-x86_64.apk` | La app para emuladores de Android en computador (pruebas). |
 | `README.md` | Este documento. |
 
-Solo se guarda **la última versión**. Cada publicación reemplaza la anterior, así el repositorio no crece sin fin.
+La carpeta `apk/` tiene solo **la última versión**. Las anteriores quedan en el historial del repositorio.
 
 ---
 
@@ -105,8 +105,8 @@ Todo se hace desde el PC donde se compila BoomBassTik, con `publicar.bat` (carpe
    - sube el número de versión;
    - compila la app;
    - **verifica que cada APK esté firmado con la llave de BoomBassTik** (si no, no publica nada);
-   - copia los APK a este repositorio, calcula sus huellas SHA-256 y escribe `version.json`;
-   - lo sube a GitHub.
+   - reemplaza los APK de `apk/` por los nuevos, calcula sus huellas SHA-256 y escribe `version.json`;
+   - lo sube a GitHub con un commit normal (el historial se conserva).
 4. Los teléfonos la encuentran en las próximas horas (al abrir la app o en su revisión de cada 6 horas).
 
 **Sin preguntas:** crea `proxima-version.txt` en la misma carpeta y `publicar.bat` lo usa:
