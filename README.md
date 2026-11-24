@@ -44,7 +44,7 @@ Se necesita **Android 7.0 o más nuevo**.
 2. Abre el archivo descargado (desde la notificación o desde la app **Archivos → Descargas**).
 3. Si Android avisa que el navegador no puede instalar apps, toca **Configuración**, activa **Permitir de esta fuente** y vuelve atrás.
 4. Toca **Instalar**.
-5. Si aparece **Google Play Protect** diciendo que la app es desconocida, toca **Más detalles → Instalar de todas formas**. Pasa porque la app no viene de Google Play, no porque tenga algo malo.
+5. Si aparece **Google Play Protect** («Análisis recomendado» o «App desconocida»), toca **Más detalles** y luego **Instalar sin analizar** (en algunos teléfonos dice **Instalar de todas formas**). Pasa porque la app no viene de Google Play, no porque tenga algo malo. Puede aparecer también en la primera actualización.
 
 Listo. Desde aquí, las versiones nuevas llegan solas.
 
@@ -192,6 +192,12 @@ La búsqueda por voz entiende mejor
 - Toca **Reintentar** en el inicio.
 - Si el mensaje habla de **firma distinta**, desinstala la app e instálala de nuevo (una sola vez).
 - Si habla de **espacio**, libera espacio en el teléfono e intenta otra vez.
+</details>
+
+<details>
+<summary><b>Al actualizar apareció Google Play Protect</b></summary>
+
+Es normal con apps que no vienen de Google Play. Toca **Más detalles → Instalar sin analizar**. No toques **No instalar app**: cancelaría la actualización (la app la vuelve a ofrecer después).
 </details>
 
 <details>

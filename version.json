@@ -1,28 +1,29 @@
 {
   "schema": 1,
-  "versionCode": 10501,
-  "versionName": "1.5.1",
+  "versionCode": 10502,
+  "versionName": "1.5.2",
   "publishedAt": "2026-11-24",
   "urgent": false,
   "minSdk": 24,
   "notes": [
-    "Nuevo color verde en el aviso de «¡Ya tienes la nueva versión!»"
+    "Nueva sección «Lo nuevo para ti»: los lanzamientos de los artistas que escuchas",
+    "El aviso de novedades ahora aparece siempre después de actualizar"
   ],
   "apks": {
     "arm64-v8a": {
       "file": "apk/BoomBassTik-arm64-v8a.apk",
-      "size": 23988207,
-      "sha256": "3db99b79d5725c59810388d741a537ba1020519e9b49c8c991e50ed35f2da9a3"
+      "size": 23992859,
+      "sha256": "d7ede4b6e0ccf4e4a7657bd1a212fba6584d4f37148b2132eb5f26e95b3f0faf"
     },
     "armeabi-v7a": {
       "file": "apk/BoomBassTik-armeabi-v7a.apk",
-      "size": 19955901,
-      "sha256": "6e4c0d8ecbd4953c35ed5d91f1d2e01ede4b11d9647135b9969d52407c49fdcf"
+      "size": 19960553,
+      "sha256": "1dec3b59fc1177d0d81c1f21c25092764011d2ade21f4d74fd58258186ea5cd3"
     },
     "x86_64": {
       "file": "apk/BoomBassTik-x86_64.apk",
-      "size": 24346334,
-      "sha256": "615323287442b15336479226cb2e8a7a61208b1531d16e73266906e10ff4b5e5"
+      "size": 24350986,
+      "sha256": "7a48c0ec5bc34fe3a36d121502d5574c35f3b3df77e4da2a2a8fb76a00b28850"
     }
   }
 }
