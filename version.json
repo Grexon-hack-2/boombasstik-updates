@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "versionCode": 10500,
+  "versionName": "1.5.0",
+  "publishedAt": "2026-11-24",
+  "urgent": false,
+  "minSdk": 24,
+  "notes": [
+    "Búsqueda por voz con su propio panel de resultados",
+    "El buscador guarda tu última búsqueda",
+    "Modo DJ: el disco B solo cambia cuando hay otra lista",
+    "Actualizaciones automáticas"
+  ],
+  "apks": {
+    "arm64-v8a": {
+      "file": "apk/BoomBassTik-arm64-v8a.apk",
+      "size": 23988171,
+      "sha256": "9cacc8ca83b62ef5fe8e2f21bdf63ef92f7aa32b6502e081edff9558a6f2cf12"
+    },
+    "armeabi-v7a": {
+      "file": "apk/BoomBassTik-armeabi-v7a.apk",
+      "size": 19955865,
+      "sha256": "ee887a42bf4f021dec5a0d97b67cc536628652ffd75b9827f5d4147e919c1512"
+    },
+    "x86_64": {
+      "file": "apk/BoomBassTik-x86_64.apk",
+      "size": 24346298,
+      "sha256": "605f957ebf5281e6d5ad64acb865a167c991a0bb9257c8911264f48229c95f3a"
+    }
+  }
+}
