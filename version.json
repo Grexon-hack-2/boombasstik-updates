@@ -1,29 +1,29 @@
 {
   "schema": 1,
-  "versionCode": 10503,
-  "versionName": "1.5.3",
+  "versionCode": 10504,
+  "versionName": "1.5.4",
   "publishedAt": "2026-11-24",
   "urgent": false,
   "minSdk": 24,
   "notes": [
-    "Nueva sección «Lo nuevo para ti»: los lanzamientos de los artistas que escuchas, con su foto y hace cuánto salieron",
-    "Toca un artista para ver solo lo suyo"
+    "«Lo nuevo para ti» ya no desaparece al recargar ni al escuchar una canción",
+    "Las secciones del inicio se actualizan con una transición suave"
   ],
   "apks": {
     "arm64-v8a": {
       "file": "apk/BoomBassTik-arm64-v8a.apk",
-      "size": 23993135,
-      "sha256": "b053bdd70de486755b87f887bb0e4ee869caf18893664044098525b02a620a2b"
+      "size": 23994039,
+      "sha256": "7b90c55076b008f9ecbf03b2bdd1f825b0bd3636e1717c66ee34f156c215d5d0"
     },
     "armeabi-v7a": {
       "file": "apk/BoomBassTik-armeabi-v7a.apk",
-      "size": 19960829,
-      "sha256": "c17fe60bc4c39691d3b5871d1ea81ac12cdeefb41de7b9d012068aa8f9dec1f2"
+      "size": 19961733,
+      "sha256": "eac2a0250e884e1ebbad08c0dd376bde0bf5d71ab86e59248e58934ee326d715"
     },
     "x86_64": {
       "file": "apk/BoomBassTik-x86_64.apk",
-      "size": 24351262,
-      "sha256": "ef73eb898e2862366b11bbaa273ae0ca1ec2c3349356be998060b92d379e143b"
+      "size": 24352166,
+      "sha256": "b5358a7cdd7c6f7deb7c2602d242f8cb385377aa564bfb17dd55009ef7066c07"
     }
   }
 }
