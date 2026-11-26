@@ -1,29 +1,31 @@
 {
   "schema": 1,
-  "versionCode": 10504,
-  "versionName": "1.5.4",
-  "publishedAt": "2026-11-24",
+  "versionCode": 10505,
+  "versionName": "1.5.5",
+  "publishedAt": "2026-11-25",
   "urgent": false,
   "minSdk": 24,
   "notes": [
-    "«Lo nuevo para ti» ya no desaparece al recargar ni al escuchar una canción",
-    "Las secciones del inicio se actualizan con una transición suave"
+    "Si se cae el internet, la música sigue sonando: la siguiente canción ya queda cargada desde antes",
+    "Avisos claros de conexión: «Reconectando…», «Sin conexión» con Reintentar y aviso verde cuando vuelve",
+    "Sin internet sigue con tus descargas, también en el Modo DJ",
+    "Con datos móviles gasta menos datos"
   ],
   "apks": {
     "arm64-v8a": {
       "file": "apk/BoomBassTik-arm64-v8a.apk",
-      "size": 23994039,
-      "sha256": "7b90c55076b008f9ecbf03b2bdd1f825b0bd3636e1717c66ee34f156c215d5d0"
+      "size": 24022723,
+      "sha256": "00934ab3a280215fb0db192d51b825dc3e4e430545407ce436b753a8611d2682"
     },
     "armeabi-v7a": {
       "file": "apk/BoomBassTik-armeabi-v7a.apk",
-      "size": 19961733,
-      "sha256": "eac2a0250e884e1ebbad08c0dd376bde0bf5d71ab86e59248e58934ee326d715"
+      "size": 19990417,
+      "sha256": "cb1973427ce4586875ba4a214a570eedcb3d632b2ada2d721dd88e7f8d9e4201"
     },
     "x86_64": {
       "file": "apk/BoomBassTik-x86_64.apk",
-      "size": 24352166,
-      "sha256": "b5358a7cdd7c6f7deb7c2602d242f8cb385377aa564bfb17dd55009ef7066c07"
+      "size": 24380850,
+      "sha256": "7064b96699fd2dd4046b2b88fe631b61590d3f3c837a45d1b7bb4c585cccac5c"
     }
   }
 }
